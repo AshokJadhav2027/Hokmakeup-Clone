@@ -39,22 +39,6 @@ User can Create Account and also Login to the account. We used some JavaScript f
 We have added different payment methods, users can choose according to there preference, and after selecting any method it will redirect users to final payment page.
 
 
-## Contributors :
-
-- Hitendra Mali : https://github.com/h1t3ndr4
-
-- Sanket Thombare : https://github.com/sanket008
-
-- Alok Kumar : https://github.com/alokkumar-dev
-
-- Dhananjay Dhoke : https://github.com/DhananjayDhoke
-
-- Saurabh Suman : https://github.com/srvsumanss
-
-
-## Our blog link :
-https://h1t3ndr4.medium.com/cloning-of-hok-makeup-website-a9bbe99ca0ed
-
 
 ## Deploy Link :
 https://hokmakeup-clone.vercel.app/index.html
